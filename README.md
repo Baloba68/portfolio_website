@@ -14,21 +14,21 @@ Features:
 ✅ Contact Link – Directs visitors to their email account with my email pre filled.
 
 Important Links:
-Download CV (PDF)
-Simple Calculator Project
-Udacity Certificate: Fundamentals of Generative AI
+Download CV (PDF).
+Simple Calculator Project.
+Udacity Certificate: Fundamentals of Generative AI.
 
 Tech Stack:
-HTML5 – Website structure
-CSS3 – Styling and layout
+HTML5 – Website structure.
+CSS3 – Styling and layout.
 
 Getting Started:
 To view the project locally;
-#Clone the repository  
-git clone https://github.com/Baloba68/portfolio-website.git  
-#Open the project folder  
-cd portfolio-website  
-#Open index.html in your browser
+#Clone the repository.  
+git clone https://github.com/Baloba68/portfolio_website.git  
+#Open the project folder.  
+cd portfolio-website.  
+#Open index.html in your browser.
 
 Notes:
 The CV is included as a PDF file inside the project folder.
@@ -36,10 +36,10 @@ The Udacity Certificate link redirects to the official Udacity site.
 All code is commented for readability.
 
 Author:
-Adam Sebit
-Student at the University of Nairobi (Bachelor of Arts)
-Studying Software Engineering at PowerLearn Project Africa
-Learning Fundamentals of Generative AI (Udacity Certified)
+Adam Sebit.
+Student at the University of Nairobi (Bachelor of Arts).
+Studying Software Engineering at PowerLearn Project Africa.
+Learning Fundamentals of Generative AI (Udacity Certified).
 Passionate about Technology, AI, and Software Development.
 
 This portfolio is a continuous work in progress as I grow my skills and add more projects.
