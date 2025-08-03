@@ -1,0 +1,97 @@
+/* Reset some default styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Header Styling */
+header {
+    text-align: center;
+    background: #333;
+    color: #fff;
+    padding: 2rem 1rem;
+}
+
+/* Profile picture style */
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid #fff;
+}
+
+/* Section General Styling */
+section {
+    padding: 2rem;
+    margin: 1rem auto;
+    max-width: 800px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+section h2 {
+    color: #444;
+    margin-bottom: 1rem;
+}
+
+/* List styling for skills */
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+/* Udacity certificate link */
+.udacity-link {
+    color: #1a73e8;       /* Google/Udacity style blue */
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+  }
+  
+  .udacity-link:hover {
+    color: #0c47a1;       /* Darker blue on hover */
+    text-decoration: underline;
+  }
+  
+/* Button styling for CV download */
+.btn {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background: #007bff;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.btn:hover {
+    background: #0056b3;
+}
+
+/* Contact button styling */
+.contact-btn {
+    display: inline-block;
+    padding: 10px 20px;        /* Button size */
+    background-color: #007BFF; /* Nice blue color */
+    color: white;              /* White text */
+    text-decoration: none;     /* Remove underline */
+    border-radius: 5px;        /* Rounded corners */
+    font-weight: bold;         /* Make text bold */
+    transition: background-color 0.3s ease; /* Smooth hover effect */
+  }
+  
+  .contact-btn:hover {
+    background-color: #0056b3; /* Darker blue when hovered */
+  }
+
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #333;
+    color: white;
+}
