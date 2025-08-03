@@ -1,9 +1,9 @@
-Personal Portfolio Website
+Personal Portfolio Website:
 This is my personal Portfolio Website, built using HTML and CSS.
 It showcases my skills, background, education, project, and achievements.
 The website also provides a way for potential employers, collaborators, or partners to connect with me.
 
-Features
+Features:
 ✅ About Section – A short introduction about who I am, my passion, and what drives me.
 ✅ Educational Background – Details about my academic journey (Primary, High School, and University).
 ✅ Skills & Interests – Highlights of programming languages I’m proficient in, and my  interests.
@@ -13,29 +13,29 @@ Features
 ✅ Profile Picture – Adds personality to the portfolio.
 ✅ Contact Link – Directs visitors to their email account with my email pre filled.
 
-Important Links
+Important Links:
 Download CV (PDF)
 Simple Calculator Project
 Udacity Certificate: Fundamentals of Generative AI
 
-Tech Stack
+Tech Stack:
 HTML5 – Website structure
 CSS3 – Styling and layout
 
-Getting Started
-To view the project locally:
+Getting Started:
+To view the project locally;
 #Clone the repository  
 git clone https://github.com/Baloba68/portfolio-website.git  
 #Open the project folder  
 cd portfolio-website  
 #Open index.html in your browser
 
-Notes
+Notes:
 The CV is included as a PDF file inside the project folder.
 The Udacity Certificate link redirects to the official Udacity site.
 All code is commented for readability.
 
-Author
+Author:
 Adam Sebit
 Student at the University of Nairobi (Bachelor of Arts)
 Studying Software Engineering at PowerLearn Project Africa
